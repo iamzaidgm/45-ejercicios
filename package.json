@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "fs": "^0.0.1-security",
+    "readline-sync": "^1.4.10"
+  }
+}
